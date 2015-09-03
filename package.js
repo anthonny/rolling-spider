@@ -1,8 +1,8 @@
 Package.describe({
   name: 'anthonny:rolling-spider',
-  version: '0.0.1',
+  version: '0.1.0',
   // Brief, one-line summary of the package.
-  summary: '',
+  summary: 'A Meteor wrapper for node-rolling-spider 1.5.0',
   // URL to the Git repository containing the source code for this package.
   git: '',
   // By default, Meteor will default to using README.md for documentation.
